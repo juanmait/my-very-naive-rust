@@ -1,0 +1,27 @@
+{
+  "editor.fontSize": 13,
+  "search.exclude": {
+    "**/target": true,
+    "**/Cargo.lock": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/target": true
+  },
+  "cSpell.words": [
+    "rustup",
+    "toml",
+    "winit"
+],
+"editor.tabSize": 4,
+"files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/target": true,
+    "**/*.lock": true,
+    "**/.DS_Store": true
+}
+}

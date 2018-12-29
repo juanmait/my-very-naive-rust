@@ -1,0 +1,6 @@
+[package]
+name = "block-test"
+version = "0.1.0"
+authors = ["juanma"]
+
+[dependencies]

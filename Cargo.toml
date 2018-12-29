@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "array-iter",
+  "block-test",
+  "guess-game",
+  "rev-range"
+]
