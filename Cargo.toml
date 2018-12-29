@@ -1,7 +1,8 @@
 [workspace]
 members = [
-  "array-iter",
-  "block-test",
-  "guess-game",
-  "rev-range"
+    "_traits",
+    "array-iter",
+    "block-test",
+    "guess-game",
+    "rev-range"
 ]

@@ -1,4 +1,8 @@
 [[package]]
+name = "_traits"
+version = "0.1.0"
+
+[[package]]
 name = "array-iter"
 version = "0.1.0"
 

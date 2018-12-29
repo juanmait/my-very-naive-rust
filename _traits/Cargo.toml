@@ -1,0 +1,7 @@
+[package]
+name = "_traits"
+version = "0.1.0"
+authors = ["juanma"]
+edition = "2018"
+
+[dependencies]
