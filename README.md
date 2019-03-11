@@ -1,4 +1,4 @@
-I'm trying to lear some [Rust](https://www.rust-lang.org/) from scratch so this
+I'm trying to learn some [Rust](https://www.rust-lang.org/) from scratch so this
 is a **very naive** collection of snippets and notes about it.
 
 ## Create a new (bin) Project
