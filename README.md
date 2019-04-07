@@ -28,3 +28,9 @@ rustup self update
 ```
 rustup update
 ```
+
+## Set toolchain
+
+```
+rustup default nightly
+```
