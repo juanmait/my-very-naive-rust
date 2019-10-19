@@ -9,13 +9,9 @@
     "**/.git/subtree-cache/**": true,
     "**/target": true
   },
-  "cSpell.words": [
-    "rustup",
-    "toml",
-    "winit"
-],
-"editor.tabSize": 4,
-"files.exclude": {
+  "cSpell.words": ["rustup", "toml", "winit"],
+  "editor.tabSize": 4,
+  "files.exclude": {
     "**/.git": true,
     "**/.svn": true,
     "**/.hg": true,
@@ -23,5 +19,11 @@
     "**/target": true,
     "**/*.lock": true,
     "**/.DS_Store": true
-}
+  },
+  "rust.all_targets": true,
+  "rust.full_docs": true,
+  "rust.show_warnings": true,
+  "rust-client.logToFile": true,
+  "rust-client.trace.server": "verbose",
+  "rust-client.updateOnStartup": true
 }

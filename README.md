@@ -3,12 +3,14 @@ is a **very naive** collection of snippets and notes about it.
 
 ## Create a new (bin) Project
 
-Add `myproject` to  `Cargo.toml` members. Then run:
+Add `myproject` to `Cargo.toml` members. Then run:
 
 ```
 cargo new myproject --bin
 ```
-Be sure to include `Cargo.lock` to the repo when is a `bin` project. See: https://doc.rust-lang.org/cargo/faq.html#why-do-binaries-have-cargolock-in-version-control-but-not-libraries
+
+Be sure to include `Cargo.lock` to the repo when is a `bin` project. See:
+https://doc.rust-lang.org/cargo/faq.html#why-do-binaries-have-cargolock-in-version-control-but-not-libraries
 
 ## Run the bin
 
@@ -33,4 +35,10 @@ rustup update
 
 ```
 rustup default nightly
+```
+
+## Build the project
+
+```
+cargo build
 ```
